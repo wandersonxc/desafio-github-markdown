@@ -7,8 +7,8 @@ Este repositório faz parte de um desafio proposto para praticar os conceitos de
 - [x] Criar conta no GitHub  
 - [x] Criar um repositório público  
 - [x] Adicionar um `README.md` com formatações Markdown  
-- [ ] Adicionar colaboradores  
-- [ ] Criar e fechar Issues  
+- [x] Adicionar colaboradores  
+- [x] Criar e fechar Issues  
 - [ ] Criar Pull Requests  
 - [ ] Fazer commits com alterações no projeto  
 
@@ -43,11 +43,13 @@ Neste projeto, eu vou aprender a:
 1. Primeiro item  
 2. Segundo item  
 3. Terceiro item
+4. Quarto item
 
 ### Lista Não Ordenada
 - Item A  
 - Item B  
-  - Subitem
+  - Subitem A
+  - Subitem B
 
 ### Código
 ```javascript
