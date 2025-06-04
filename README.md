@@ -1,6 +1,6 @@
 # 💻 Desafio GitHub Markdown
 
-Este repositório faz parte de um desafio proposto para praticar os conceitos de Git, GitHub e Markdown.
+Este repositório faz parte de um desafio proposto pelo curso FORMAÇÃO GITHUB(DIO.me) para praticar os conceitos GitHub e Markdown.
 
 ## 🧩 Etapas do Desafio
 
@@ -9,18 +9,18 @@ Este repositório faz parte de um desafio proposto para praticar os conceitos de
 - [x] Adicionar um `README.md` com formatações Markdown  
 - [x] Adicionar colaboradores  
 - [x] Criar e fechar Issues  
-- [ ] Criar Pull Requests  
-- [ ] Fazer commits com alterações no projeto  
+- [x] Criar Pull Requests e Merge 
+- [x] Fazer commits com alterações no projeto  
 
 ---
 
 ## 📝 Aprendizado
 
-Neste projeto, eu vou aprender a:
+Neste projeto, eu aprendi a:
 
 - Criar e editar arquivos com **Markdown**  
 - Utilizar o editor **GitHub.dev**  
-- Trabalhar com **Issues**, **Pull Requests** e **Commits**  
+- Trabalhar com **Issues**, **Pull Requests**, **Commits** e **Merges**
 - Colaborar com outros usuários no GitHub  
 
 ---
@@ -73,4 +73,4 @@ console.log("Olá, mundo!");
 @wandersonxc & @devwandersonxc
 
 ## 📌 Status
-- Entender melhor o fluxo de trabalho colaborativo no GitHub 🛠️
+- Projeto finalizado! ✅
