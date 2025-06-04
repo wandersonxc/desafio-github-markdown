@@ -73,4 +73,4 @@ console.log("Olá, mundo!");
 @wandersonxc & @devwandersonxc
 
 ## 📌 Status
-Projeto em andamento 🛠️
+- Entender melhor o fluxo de trabalho colaborativo no GitHub 🛠️
